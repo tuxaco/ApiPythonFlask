@@ -73,7 +73,7 @@ Now  `FLASK_APP`  and  `FLASK_ENV`  are set inside the Windows shell.
 
 With all the environment variables ready, you can now start the Flask development server by calling  `flask run`:
 
-`$ flask run
+`$ flask run`
 * Serving Flask app "app.py" (lazy loading)
 * Environment: development
 * Debug mode: on
